@@ -33,9 +33,6 @@
   "scripts": {
     "test": "karma start karma.conf.js"
   },
-  "peerDependencies": {
-    "gulp": "^3.x.x"
-  },
   "devDependencies": {
     "babel-plugin-check-es2015-constants": "^6.8.0",
     "babel-plugin-transform-member-expression-literals": "^6.8.0",
